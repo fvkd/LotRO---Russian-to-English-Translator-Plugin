@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Plugin>
+  <Information>
+    <Name>Russian to English Translator</Name>
+    <Author>fukd @ github/Swanson, Lolbor, Lolldo, Lolhad @ Brandywine</Author>
+    <Version>1.0</Version>
+    <Description>Translates Russian chat messages to English.</Description>
+  </Information>
+  <Package>RussianToEnglishTranslator.Main</Package>
+</Plugin>
